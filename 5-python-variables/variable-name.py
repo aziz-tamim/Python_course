@@ -6,6 +6,7 @@ myVar = "John"
 MYVAR = "John"
 myvar2 = "John"
 
+
 print(myvar)
 print(my_var)
 print(_my_var)
@@ -18,9 +19,11 @@ print(myvar2)
 myVariableName = "John"
 print(myVariableName)
 
+
 #Pascal Case
 MyVariableName = "John"
 print(MyVariableName)
+
 
 #Snake Case
 my_variable_name = "John"

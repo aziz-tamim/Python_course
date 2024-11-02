@@ -2,6 +2,7 @@ print(10 > 9)
 print(10 == 9)
 print(10 < 9)
 
+
 a = 200
 b = 33
 if b > a:
@@ -12,6 +13,7 @@ else:
 
 print(bool("Hello"))
 print(bool(15))
+
 
 x = "Hello"
 y = 15
@@ -39,6 +41,7 @@ class myclass():
 myobject = myclass() 
 print(bool(myobject))
 
+
 def myFunction():
     return True
 print(myFunction())
@@ -51,5 +54,6 @@ if myFunction():
 else:
     print("No!")
     
+
 x = 200
 print(isinstance(x, int))

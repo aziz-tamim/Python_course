@@ -14,6 +14,7 @@ print(type(x))
 print(type(y))
 print(type(z))
 
+
 # Float number
 x = 1.10
 y = 1.0
@@ -45,9 +46,11 @@ print(type(z))
 x = float(1)
 print(x)
 
+
 # converter from float to int
 y = int(2.8)
 print(y)
+
 
 # converter from int to complex
 z = complex(1)
