@@ -9,7 +9,7 @@ print(yellow)
 print(red)
 
 
-# ==================== not clear this program =====================
+# ==================== not clear this program ===================== #
 fruits = ("apple", "banana", "cherry", "strawberry", "raspberry")
 (green, yellow, *red) = fruits
 print(green)
