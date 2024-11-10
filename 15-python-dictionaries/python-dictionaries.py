@@ -47,4 +47,3 @@ thisdict = {
     "year": 1964
 }
 print(type(thisdict))
-
