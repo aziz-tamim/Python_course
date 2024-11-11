@@ -10,7 +10,7 @@ thisset3 = {"apple", "banana", "cherry", True, 1, 2}
 print(thisset3)
 
 
-# ======== This program not clear ======== #
+# ======== This program not clears ======== #
 thisset4 = {"apple", "banana", "cherry", False, True, 0}
 print(thisset4)
 
