@@ -33,7 +33,7 @@ thisdic = {
 for x in thisdic.keys():
     print(x)
 
-    
+
 thisdic = {
     "brand": "Ford",
     "model": "Musting",
