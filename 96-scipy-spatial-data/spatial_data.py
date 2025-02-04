@@ -16,3 +16,4 @@ plt.xlabel("X")
 plt.ylabel("Y")
 plt.savefig("triangulation_plot.png")
 plt.show()
+
