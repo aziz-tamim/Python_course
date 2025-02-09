@@ -9,4 +9,3 @@ def members(request):
     'mymembers': mymembers,
   }
   return HttpResponse(template.render(context, request))
- 
