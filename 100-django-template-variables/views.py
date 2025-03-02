@@ -7,3 +7,4 @@ def testing(request):
     'firstname': 'Linus',
   }
   return HttpResponse(template.render(context, request))
+
